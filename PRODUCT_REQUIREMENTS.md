@@ -12,7 +12,7 @@ The first concrete application of these requirements is the ASTERIA asteroid ren
 
 ## 2. Project Definition
 
-### R1 — Structured Project Definition
+R1 — Structured Project Definition
 
 Every ASTERIA project must have a lightweight common structure while allowing project-specific content.
 
@@ -22,8 +22,13 @@ A project definition should establish, as appropriate:
 - success criteria / definition of done;
 - expectations;
 - scope;
+- mission and performance requirements;
 - constraints;
-- initial assumptions.
+- initial assumptions and simplifications.
+
+Mission and performance requirements define conditions the engineering solution is expected to satisfy. They should describe the engineering problem and its boundaries without prescribing the solution path.
+
+Exceeding a requirement should not automatically constitute project failure. The project should allow Marina to investigate, understand and document the consequences of exceeding a requirement and, where appropriate, justify the deviation or revise the engineering approach. Any material change to the project definition remains subject to the existing approval rules below.
 
 For the current version, the project definition is provided by the project creator or supervisor.
 
